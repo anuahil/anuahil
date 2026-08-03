@@ -1,9 +1,9 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="#" alt="Profile Picture" width="150" />
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile Picture" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h1 align="center">Hi, I'm Anujan</h1>
 <h2 align="center">Full Stack Developer | Python | SQL | JavaScript</h2>
 
 ---
