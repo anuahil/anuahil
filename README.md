@@ -55,7 +55,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Darrenvandervelde" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/anuahil" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
